@@ -52,7 +52,9 @@ Type=Fixed
 [places/48]
 Size=48
 Context=Places
-Type=Fixed
+Type=Scalable
+MinSize=16
+MaxSize=256
 
 [places/48@2x]
 Size=48
